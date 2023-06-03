@@ -22,7 +22,7 @@ switch(diasem) {
     case 5:
         console.log("sexta")
         break
-    case 7:
+    case 7 :
         console.log("sabado")
         break
     default:
