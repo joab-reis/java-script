@@ -1,0 +1,22 @@
+
+
+body {
+    font: normal 10pt arial;
+    background-color: rgb(122, 164, 162);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+p {
+    font: arial 10pt;
+}
+div {
+    background-color: green;
+    width: 150px;
+    height: 120px;
+    line-height: 120px;
+    text-align: center;
+    font: bold
+}
